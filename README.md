@@ -7,11 +7,14 @@
 
 <img width="1667" alt="Снимок экрана 2022-10-31 в 20 38 53" src="https://user-images.githubusercontent.com/64790767/199078271-6747598a-4b41-4a8b-8b27-9981b77bbecc.png">
 
+
 Боковое меню скрывается при ширине экрана <= 768px
 <img width="754" alt="Снимок экрана 2022-10-31 в 20 39 18" src="https://user-images.githubusercontent.com/64790767/199078593-59f6c88f-8c48-41cb-b75e-b8e5351a2151.png">
 
+
 В боковом меню пункт “Настройки” должен открываться и закрываться по клику
 <img width="297" alt="Снимок экрана 2022-10-31 в 20 39 00" src="https://user-images.githubusercontent.com/64790767/199078719-256163c1-4c73-4446-93d9-89e5e14c9a79.png">
+
 
 Кнопка “Поиск адресов” ведет на страницу поиска адресов
 <img width="1676" alt="Снимок экрана 2022-10-31 в 20 39 29" src="https://user-images.githubusercontent.com/64790767/199078953-62388732-cecd-45d8-b487-448190767222.png">
