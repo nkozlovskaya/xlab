@@ -18,6 +18,11 @@
 
 
 Кнопка “Поиск адресов” ведет на страницу поиска адресов
+
 <img width="1676" alt="Снимок экрана 2022-10-31 в 20 39 29" src="https://user-images.githubusercontent.com/64790767/199078953-62388732-cecd-45d8-b487-448190767222.png">
+
+<img width="1673" alt="Снимок экрана 2022-10-31 в 20 51 23" src="https://user-images.githubusercontent.com/64790767/199079652-d79245b6-d8c9-408c-9e50-b891ea72e1f1.png">
+
+<img width="1672" alt="Снимок экрана 2022-10-31 в 20 52 17" src="https://user-images.githubusercontent.com/64790767/199079685-f8eaaab4-3e1c-49a2-9fed-79cd8d9d79a3.png">
 
 
