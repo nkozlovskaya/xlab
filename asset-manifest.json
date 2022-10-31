@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/xlab/static/css/main.6c995091.css",
+    "main.js": "/xlab/static/js/main.8daafa8e.js",
+    "index.html": "/xlab/index.html",
+    "main.6c995091.css.map": "/xlab/static/css/main.6c995091.css.map",
+    "main.8daafa8e.js.map": "/xlab/static/js/main.8daafa8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c995091.css",
+    "static/js/main.8daafa8e.js"
+  ]
+}
