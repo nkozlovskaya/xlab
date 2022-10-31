@@ -2,8 +2,6 @@
 
 
 
-SPA на React [Demo](https://nkozlovskaya.github.io/xlab).
-
 ## Задание:
 - сверстать макет панели управления црм;
 - подключиться к сервису https://dadata.ru/api/suggest/address/;  
