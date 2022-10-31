@@ -1,0 +1,44 @@
+$background-color: #4F27BF
+
+@mixin size-img
+    width: 48px
+    height: 48px 
+    margin-top: 16px 
+
+@mixin size-text
+    margin-top: 28px 
+    height: 24px    
+
+.header
+    position: fixed
+    display: flex
+    justify-content: space-between
+    background-color: $background-color
+    width: 100%
+    height: 80px
+    left: 0px
+    top: 0px
+
+    &_logo
+        display: flex
+
+    &_icName
+        display: flex
+        
+    &_wrench
+        margin-left: 32px 
+        @include size-img
+
+    &_wrenchCRM
+        margin-left: 24px 
+        width: 134px
+        @include size-text
+
+    &_icPerson
+        margin-right: 16px
+        @include size-img
+
+    &_nameSurname 
+        margin-right: 32px 
+        width: 153px
+        @include size-text

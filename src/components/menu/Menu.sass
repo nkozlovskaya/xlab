@@ -1,0 +1,74 @@
+@mixin position
+    margin-top: 48px
+    margin-left: 32px
+    display: flex 
+    align-items: center
+
+
+    
+.menu
+    margin-top: 80px
+    width: 300px
+    height: 944px
+    position: absolute
+    display: inline-block 
+    background: rgba(255, 255, 255, 0.05)
+    box-shadow: 0px 0px 5px rgba(2, 0, 96, 0.25)
+    &__header
+        margin-top: 24px
+        margin-left: 32px
+        font-size: 20px
+
+::-webkit-scrollbar 
+  width: 6px
+::-webkit-scrollbar-thumb 
+  height: 37px   
+  border-radius: 5px
+  height: 127px
+  background-color: #4F27BF
+
+
+::-webkit-scrollbar-track 
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.2)
+  border-radius: 10px
+  background-color: #f9f9fd    
+
+
+li
+    @include position
+    justify-content: left
+    list-style-type: none
+    
+
+li:first-child
+    margin-top: 36px
+
+a
+   margin-left: 16px 
+   font-size: 20px
+   color: #1C1C1E
+   text-decoration: none
+
+.settings_img
+    margin-left: 67px
+    cursor: pointer
+
+.dropdown
+    @include position
+    justify-content: column
+    margin-top: 37px
+    margin-left: 80px
+    &_a
+        margin-left: 14px
+    &_li
+        display: flex 
+        justify-content: left
+        align-items: center
+    &_li:last-child
+      margin-top: 32px  
+
+@media (max-width: 768px)
+    .menu
+        display: none
+        
+        
